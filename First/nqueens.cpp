@@ -1,4 +1,4 @@
-﻿#include <SFML/Graphics.hpp>
+#include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
 #include <iostream>
 #include <sstream>
@@ -130,7 +130,7 @@ void initialize(Board& board) {
     RenderWindow sizeWindow(VideoMode(800, 800), "Enter Chessboard Size", Style::Close);
 
     RectangleShape Background;
-    Background.setSize(Vector2f(820, 800));
+    Background.setSize(Vector2f(800, 800));
     Texture background_texture;
     background_texture.loadFromFile("Texture/Menu.png");
     Background.setTexture(&background_texture);
@@ -145,7 +145,7 @@ void initialize(Board& board) {
     welcome.setFont(font);
     welcome.setCharacterSize(35);
     welcome.setString("Welcome to my visualization of the N-Queens Problem!");
-    welcome.setPosition(, 100);
+    welcome.setPosition(30, 100);
 
     Text prompt;
     prompt.setFont(font);
@@ -156,7 +156,7 @@ void initialize(Board& board) {
     Text inputText;
     inputText.setFont(font);
     inputText.setCharacterSize(35);
-    inputText.setPosition(360, 240);
+    inputText.setPosition(625, 200);
 
     while (sizeWindow.isOpen()) {
         Event event;
