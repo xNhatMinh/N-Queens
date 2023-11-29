@@ -44,3 +44,6 @@ Nếu bạn gặp vấn đề hoặc có câu hỏi, vui lòng liên hệ với 
 - Để có trải nghiệm âm thanh tốt nhất, đảm bảo hệ thống của bạn có thể phát nhạc MP3.
 - Chương trình sử dụng thư mục "Texture" để lưu trữ hình ảnh, vui lòng đảm bảo rằng các tệp ảnh có sẵn trong thư mục này.
 - Tùy thuộc vào hệ điều hành của bạn, cần có thể điều chỉnh các bước biên dịch và chạy chương trình.
+
+![image](https://github.com/xNhatMinh/N-Queens/assets/122538304/021087a6-4b86-428c-a94b-bee5040bd3e4)
+
