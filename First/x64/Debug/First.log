@@ -1,0 +1,8 @@
+﻿  nqueens.cpp
+C:\Project Visual Studio\First\First\nqueens.cpp(42,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Project Visual Studio\First\First\nqueens.cpp(42,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Project Visual Studio\First\First\nqueens.cpp(46,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Project Visual Studio\First\First\nqueens.cpp(46,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Project Visual Studio\First\First\nqueens.cpp(60,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Project Visual Studio\First\First\nqueens.cpp(60,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  First.vcxproj -> C:\Project Visual Studio\First\x64\Debug\First.exe
